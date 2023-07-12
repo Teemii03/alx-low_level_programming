@@ -21,7 +21,6 @@ char *str_concat(char *s1, char *s2)
 
 	while (s1[a])
 		a++;
-	
 	while (s2[b])
 		b++;
 
